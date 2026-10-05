@@ -1,0 +1,16 @@
+{
+  "name": "cc-mod-file-explorer",
+  "description": "Claude Code 파일 탐색기 모드 배포용 마켓플레이스",
+  "owner": {
+    "name": "EditorP",
+    "url": "https://github.com/Canine89"
+  },
+  "plugins": [
+    {
+      "name": "file-explorer",
+      "source": "./",
+      "description": "오른쪽 패널에 프로젝트 폴더 트리를 보여주고, @ 버튼으로 파일을 프롬프트에 멘션합니다",
+      "version": "0.1.0"
+    }
+  ]
+}

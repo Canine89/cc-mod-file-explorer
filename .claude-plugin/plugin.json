@@ -1,0 +1,16 @@
+{
+  "name": "file-explorer",
+  "version": "0.1.0",
+  "description": "오른쪽 패널에 프로젝트 폴더 트리를 보여주고, @ 버튼으로 파일을 프롬프트에 멘션합니다",
+  "author": {
+    "name": "EditorP",
+    "url": "https://github.com/Canine89"
+  },
+  "repository": "https://github.com/Canine89/cc-mod-file-explorer",
+  "keywords": [
+    "file-explorer",
+    "mention",
+    "mod"
+  ],
+  "types": "./types/index.d.ts"
+}
